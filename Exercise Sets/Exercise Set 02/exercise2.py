@@ -1,0 +1,1 @@
+print("This is exercise 2")
